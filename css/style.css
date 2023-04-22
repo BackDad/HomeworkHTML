@@ -1,0 +1,60 @@
+html {
+    background-color: #FFFFFF;
+}
+p {
+    color:blue;
+}
+h1{
+text-align: center;
+font: 50px arial, sans-serif;}
+h2 {
+    color: rgb(187, 179, 73);
+}
+a {
+    color: rgb(133, 136, 133);
+}
+.block {
+    width: 260px;
+    background-color: rgb(241, 237, 181);
+    border: 2px solid rgb(128, 119, 119);
+    padding: 20px 10px 20px 30px;
+    /*margin: 30px 20px 10px 50px;*/
+}
+p1{
+text-align: left; border-style: dotted solid double dashed;
+}
+h1 {
+    border-bottom: 5px solid red;
+}
+p2{
+color : #FF1E1E;
+font: 50px arial, sans-serif;
+text-align: center;
+}
+li1{
+color : #000000;
+font: 30px arial, sans-serif;
+text-align: center;
+}
+li1
+{
+color : #000000;
+font: 30px arial, sans-serif;
+text-align: center;
+
+}
+
+li4
+{
+color : #000000;
+font: 30px arial, sans-serif;
+text-align: center;
+
+}
+ol
+{
+color : #000000;
+font: 30px arial, sans-serif;
+text-align: left;
+
+}
